@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosichong&show_icons=true&theme=radical)
+
 <!--
 **bosichong/bosichong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
