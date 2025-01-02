@@ -1,6 +1,6 @@
 # Hi 我是J.sky
 
-* 🤔 博客：<a href="https://suiyan.cc" target="_blank" class="">碎言博客</a>
+* 🤔 博客：<a href="https://www.suiyan.cc" target="_blank" class="">碎言博客</a>
 * 🏡 作品: 参见GitHub项目列表
 
 # 汇总
